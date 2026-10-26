@@ -1,2 +1,2 @@
-# YL-training
+# YL
 YL
